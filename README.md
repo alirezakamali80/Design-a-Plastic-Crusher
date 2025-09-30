@@ -22,4 +22,4 @@ This repository contains the design documentation for a group project completed 
 - **Challenges**: Handling nonlinear dependencies in component sizing, material selection for durability, and optimizing for maintainability.
 - **Tools**: SOLIDWORKS for CAD modeling, motion studies, and FEA simulations; manual calculations for belts, gears, shafts, and bearings.
 
-This project demonstrates skills in mechanical engineering design, including component integration, stress analysis, and sustainable engineering practices. It highlights team collaboration and practical application of course concepts. The full report, calculations, and drawings are included. Feel free to explore or contribute!
+This project demonstrates skills in mechanical engineering design, including component integration, stress analysis, and sustainable engineering practices. It highlights team collaboration and practical application of course concepts. 
